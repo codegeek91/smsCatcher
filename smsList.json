@@ -1,0 +1,18 @@
+{
+    "smsList" : [
+        {
+            "from": "58181641",
+            "body": "Test sms body 1"
+        },
+        
+        {
+            "from": "58181642",
+            "body": "Test sms body 2"
+        },
+
+        {
+            "from": "58181643",
+            "body": "Test sms body 3"
+        }
+    ]
+}
